@@ -16,6 +16,12 @@
 | Harry Potter and the Half-Blood Prince (Harry Potter #6) | £48.75 | In stock | ⭐⭐⭐⭐⭐ (Five) | Fantasy |
 | Harry Potter and the Chamber of Secrets (Harry Potter #2) | £14.74 | In stock | ⭐ (One) | Fantasy |
 
+### Estatísticas de Preço
+
+- **Menor preço:** £14.74 (Harry Potter and the Chamber of Secrets)
+- **Maior preço:** £48.75 (Harry Potter and the Half-Blood Prince)
+- **Média de preços:** £31.71
+
 ### Resumo do primeiro resultado (Harry Potter and the Order of the Phoenix)
 
 > Harry Potter está prestes a começar seu quinto ano na Escola de Magia e Bruxaria de Hogwarts. Seus melhores amigos Ron e Hermione foram muito secretivos durante todo o verão e ele está desesperado para voltar à escola e descobrir o que estava acontecendo. No entanto, o que Harry descobre é muito mais devastador do que ele poderia imaginar... Suspense, segredos e ação emocionante da pena de J.K. Rowling garantem uma aventura eletrizante que é impossível largar.
